@@ -1,0 +1,9 @@
+﻿Tablero de ajedréz: http://s8.postimg.org/4yrfzhjqd/chessboard.png
+
+Piezas de ajedréz:
+Peón: ♙ ♟
+Rey: ♔ ♚
+Reina: ♕ ♛
+Torre: ♖ ♜
+Caballo: ♘ ♞
+Alfíl: ♗ ♝
